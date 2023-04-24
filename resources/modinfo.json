@@ -1,9 +1,8 @@
 {
     "type": "code",
-    "side": "server",
     "modid": "hungrywakeup",
     "name": "Hungry? Wake Up!",
     "description": "Wakes up player when saturation is 0",
     "authors": ["Craluminum2413"],
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
